@@ -1,0 +1,1 @@
+# Solving-Equation-by-GA
